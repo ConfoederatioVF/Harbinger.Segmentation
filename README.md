@@ -2,6 +2,8 @@
 
 Developed by **Special Research Group 268, Confoederatio Research Division** (SRG268-CRD). Functions as a performant alternative to Segment-Anything, especially for symbolic maps. Additionally applicable to real-world photos, graphics, and other use-cases.
 
+Originally developed to aid in auto-vectorisation for [Naissance HGIS](https://github.com/ConfoederatioVF/Naissance).
+
 ## Installation:
 
 Requirements:
