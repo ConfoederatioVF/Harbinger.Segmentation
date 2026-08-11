@@ -1,5 +1,6 @@
 # Harbinger.Segmentation
-Developed by **Special Research Group 268, Confoederatio Research Division** (SRG268-CRD).
+
+Developed by **Special Research Group 268, Confoederatio Research Division** (SRG268-CRD). Functions as a performant alternative to Segment-Anything, especially for symbolic maps. Additionally applicable to real-world photos, graphics, and other use-cases.
 
 ## Installation:
 
